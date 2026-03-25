@@ -207,19 +207,25 @@ minimax/
 
 ---
 
+## 友链
+
+- [Linux.do](https://linux.do)
+
+---
+
 ## 联系与支持
 
 <div style="display:flex;gap:20px;">
   <div style="text-align:center;">
-    <img src="assets/个人微信.jpg" width="200"/>
+    <img src="assets/个人微信.jpg" width="100"/>
     <p>个人微信</p>
   </div>
   <div style="text-align:center;">
-    <img src="assets/交流群.jpg" width="200"/>
+    <img src="assets/交流群.jpg" width="100"/>
     <p>交流群</p>
   </div>
   <div style="text-align:center;">
-    <img src="assets/赞赏码.jpg" width="200"/>
+    <img src="assets/赞赏码.jpg" width="100"/>
     <p>赞赏码</p>
   </div>
 </div>
