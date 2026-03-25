@@ -207,6 +207,11 @@ minimax/
 
 ---
 
+
+## 友链
+
+- [Linux.do](https://linux.do) 
+
 ## 联系与支持
 
 <div style="display:flex;gap:20px;">
